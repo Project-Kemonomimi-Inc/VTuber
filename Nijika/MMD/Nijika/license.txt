@@ -11,3 +11,4 @@ Commercial Usage: personalNonProfit
 Credit Notation: required
 Modification: allowModification
 License URL: https://vrm.dev/licenses/1.0/
+Other License URL: http://gamemaker2k.org/
